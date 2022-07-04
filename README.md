@@ -1,6 +1,9 @@
 ### Hi there I'm Reza 👋
 
-- 📫 How to reach me: rezagumilar851@gmail.com
+
+- I'm currently learning to be Frontend Developer
+- I'm 21 years old
+- How to reach me: rezagumilar851@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadreza851&layout=compact&theme=radical&border_color=141E61)](https://github.com/anuraghazra/github-readme-stats)
 
